@@ -1,0 +1,5 @@
+{
+    "nama":"cd",
+    "deskripsi":"perintah untuk menuju ke direktori mana yang kita tuju",
+    "penggunaan":"cd /<NAMA DIREKTORI>"
+}
