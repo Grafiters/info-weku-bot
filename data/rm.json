@@ -1,0 +1,5 @@
+{
+    "nama":"rm",
+    "deskripsi":"Perintah untuk menghapus folder yang diinginkan",
+    "penggunaan":"rm [OPTION] [FILE]"
+}
